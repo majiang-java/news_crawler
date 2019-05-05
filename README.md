@@ -12,7 +12,7 @@
 3.  先登录，保存cookiesrequests用session先post拿到cookies，再爬
 4.  URL参数太多，一般使用分治法处理网站，先收集种子再逐步爬取
 
-# how to play
+# how to run
 
 1. scrapy crawl neteast
 2. scrapy crawl douban
