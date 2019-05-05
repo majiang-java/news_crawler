@@ -1,0 +1,5 @@
+{
+  "host":"118.24.3.198","user":"root","pwd":"123456",
+  "db":"crawler","tb_common":"tb_scrape_yy","port":8066,
+  "tb_yynews":"tb_ck_hot_news"
+}
