@@ -14,6 +14,6 @@
 
 # how to play
 
-scrapy crawl neteast
-scrapy crawl douban
-scrapy crawl bitcoin
+1. scrapy crawl neteast
+2. scrapy crawl douban
+3. scrapy crawl bitcoin
